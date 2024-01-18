@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Baloo' ;
+    src: url('./fonts/Baloo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Dubai';
+    src: url('./fonts/Dubai-Regular.ttf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Laila:wght@700&display=swap');

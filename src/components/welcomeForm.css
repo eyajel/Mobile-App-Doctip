@@ -1,0 +1,58 @@
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -280px;
+}
+
+
+.welcomeTitle{
+    font-family: 'Laila', sans-serif ;
+    color: #828282;
+    font-size: 24px;
+    line-height: 1.5;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: -20px;
+}
+.buttonsContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+}
+.loginButton, .signupButton{
+    width: 277px;
+    height: 53px;
+    border-radius: 65px;
+    font-family: 'Dubai';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 1.5;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+}
+.loginButton{
+    color: #828282;
+    background-color: white;
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.signupButton{
+    background: linear-gradient(180deg, #016B9C, #209DD7, #89D6F6);
+    box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+    color: white;
+}
+.orText{
+    font-family: 'Dubai',sans-serif;
+    font-size: 22px;
+    color: #828282;
+    line-height: 1.5;
+    font-weight: 700;
+    text-align: center;
+}
+.googleContainer{
+    margin-bottom: 20px;
+}
+
+

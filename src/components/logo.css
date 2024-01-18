@@ -1,0 +1,13 @@
+.logoContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.logo{
+    margin-top: 100%;
+}
+

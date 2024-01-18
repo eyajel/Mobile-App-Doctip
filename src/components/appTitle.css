@@ -1,0 +1,16 @@
+.titleContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    color: #1C5CAF;
+    font-family: 'Baloo', sans-serif;
+    font-weight: 400;
+    font-size: 69px;
+    line-height: 1.5;
+    text-align: center;
+}
+
